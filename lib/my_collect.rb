@@ -7,4 +7,3 @@ def my_collect(arr)
     end
     arr_mdf
 end
-
